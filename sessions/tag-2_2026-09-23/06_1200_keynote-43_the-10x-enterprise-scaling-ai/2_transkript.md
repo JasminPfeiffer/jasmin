@@ -12,6 +12,8 @@
 
 ### **12:00** Scaling AI
 
+*(Offizieller Titel: Keynote 43 – The 10x Enterprise: Scaling AI Platforms for Compound Value · Arvand Modarresi, Managing Partner, Artefact)*
+
 - compound knowledge & scale
 - generate real business impact (ROI) ⇒ McK study
 
@@ -35,6 +37,7 @@ Standardization + context layer !
   ↳ 1 gateway to connect
   } systematize knowledge ! Automated structuring of know how !
   ⇓
-  Echo `[?]` **monitoring solution**
+  Echo **monitoring solution**
+  *(laut dir das Tool, das sie verwenden; online nicht bestätigbar)*
 
 **AI router** chooses „cheapest“ + „best fitting“ route !

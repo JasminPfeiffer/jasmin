@@ -12,14 +12,21 @@
 
 ### **11:40** – Private AI Exchange // Digital Reality
 
+*(laut Programm: Lars Vonhof · Senior Solution Architect, Sub-Regional EMEA, Digital Realty)*
+
 - AI Infrastructure + **key questions** *(orange unterstrichen)*
-- High density readiness + Energy ⇒ Hybrid model ! Design public vs private
-- Data / operation sovereignty ⇒ 〃
-- Legal sovereignty ⇒ contract
-- Connectivity ⇒ How is data routed? ⇒
-- Scalability
-- Security & Resilience
-- Sustainability (energy, water etc.)
-- Cost optimization ⇒ Tokenomics – cost calculation of running AI
+
+*(Deine Notiz ist wie eine Tabelle aufgebaut: links die Key Question, rechts neben dem Pfeil der Lösungsansatz.)*
+
+| Key Question | ⇒ Lösungsansatz |
+|---|---|
+| High density readiness + Energy | Hybrid model ! Design public vs private |
+| Data / operation sovereignty | 〃 *(wie oben: Hybrid model, public vs private)* |
+| Legal sovereignty | contract |
+| Connectivity: How is data routed? | ⇒ *(kein Eintrag)* |
+| Scalability | – |
+| Security & Resilience | – |
+| Sustainability (energy, water etc.) | – |
+| Cost optimization | Tokenomics – cost calculation of running AI |
 
 *Hinweis: Du hast „Digital Reality“ geschrieben. Gemeint ist vermutlich das Unternehmen **Digital Realty**.*

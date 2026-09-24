@@ -45,3 +45,4 @@
 → search for models that score well in specific domain !
 
 → **Mit „lokalen“ Modellen testen!**
+  *(Michelles Hinweis: Sie will die AGTS-Agenten auch mal auf lokalen Modellen testen.)*

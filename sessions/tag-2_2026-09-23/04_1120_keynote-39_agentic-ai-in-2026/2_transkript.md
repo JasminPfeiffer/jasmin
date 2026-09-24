@@ -12,6 +12,8 @@
 
 ### **11:20** Agentic AI in 2026 as trend // Human in the loop
 
+*(laut Programm: Andreas Horn · Founder, Human in the Loop (ex IBM). Deine Randnotiz „Human in the loop“ ist der Firmenname des Speakers.)*
+
 Hype, Reality & Road Ahead
 
 AI as major trends = from 2010

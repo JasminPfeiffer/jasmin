@@ -15,9 +15,14 @@
 - Collective values & what to protect
 
 - Laura = Tony Blair Institute
-- Jose = Lawyer Barcelona; MTN Project `[?]`
-- Gianluca = Lawyer; LT42 `[?]`
-- Chandra = Gate 2 AI `[?]`
+  *(laut Programm: Laura Gilbert · Senior Director AI & Innovation, Tony Blair Institute)*
+- Jose = Lawyer Barcelona; MTN Project
+  *(laut Programm: Jose Manuel Pérez Marzabal · Lawyer, MTNProjects.com)*
+- Gianluca = Lawyer; LT42
+  *(laut Programm: Gianluca Gilardi · CEO, LT42; laut deiner Notiz auch Lawyer)*
+- Chandra = Gate 2 AI
+  *(laut Programm: Chandrakumar Pillai · Co-Founder & President, AI Governance & Enterprise Architecture, Gate2ASI)*
+- *(nicht in deiner Notiz; laut Programm Moderation: Philippe Sigal · Lawyer (Barcelona / Paris), PSL Avocat)*
 
 ---
 
@@ -45,8 +50,8 @@ Who is responsible for output of machine?
 
 ## Seite 3
 
-- Barcelona scale-up; dev. recruiting AI, sold it & candidate got distracted `[?]`. Who decided?
-  - Commercial risk to be taken care of in contract
+- Barcelona scale-up developed a recruiting AI software, sold it and it was used in a company to screen, evaluate candidates and decide on the hiring or decline … but who was actually the one to decide and carry the risk of e.g. a lawsuit?! Really the AI?!
+  - Make sure that commercial risk is to be taken care of in contract
   - open source usage, we fall under AI Act
 
 - Closed model = black box
@@ -103,7 +108,7 @@ AI Act
 
 ⇓
 
-- Overregulating we might limit exiting `[?]` & incorporating data e.g. from US
+- Overregulating we might limit exchanging & incorporating data e.g. from US
   ↳ Block access to frontier labs
   ↳ Do application well
   Build open sources to run wherever we need them !
@@ -114,4 +119,4 @@ AI Act
 → penalties for breach
 → exit clauses
 → Fight for accountability (provider, integrator or we)
-} Validate in our contracts !
+} Validate in our contracts ! → **Bottom line for AGTS**

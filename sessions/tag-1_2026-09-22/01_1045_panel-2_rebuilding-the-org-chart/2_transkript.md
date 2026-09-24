@@ -37,7 +37,7 @@ Operators = no juniors; consultancies = hire based on customer needs
 ## Seite 2
 
 ### Who will pay for education of future talent?
-→ Dev of talent
+→ Development of talent
 → softonic – AI first
 → Now more about people, hire curious people that challenge and question
 → Focus on intuition & personal fit (connection of people)
@@ -104,7 +104,7 @@ Shareholder value requires cost reduction
   Risk of lacking effectiveness
 
 ### What's difference of AI natives & AI expert:
-- When people use AI daily they become expert?
+- When people use AI daily they become expert ⚡ *(Blitz = falsche Annahme)*
   - Tech expertise needed
   - Avoid slapping AI on every process !
   - AI is just a tool
@@ -127,6 +127,8 @@ Shareholder value requires cost reduction
   Which processes to keep in people's hands?
 
 ---
+
+**Schluss-Plädoyers der Speaker** *(unter dem Strich)*
 
 - Give time to people to experiment !
 - AI is a tool, be conscious about structure to deal with speed of AI

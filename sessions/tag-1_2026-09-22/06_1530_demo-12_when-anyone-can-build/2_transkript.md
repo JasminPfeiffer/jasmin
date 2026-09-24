@@ -2,7 +2,7 @@
 
 **Session:** Dienstag, 22.09.2026, 15:30–15:55, Demo Room
 **Handschrift:** `1_handschrift.pdf` (Original: „Demo Stage - 14-15 O’clock.pdf“), Seiten 7–8 (die Datei enthält auch Demo 9, 10 und 11)
-**Status:** ⏳ wartet auf dein Gegenlesen
+**Status:** ✅ von dir gegengelesen und freigegeben (24.09.2026)
 
 > **Legende:** **fett** = von dir markiert (Textmarker) · `[?]` = unsicher gelesen, bitte prüfen · `[unleserlich]` = nicht lesbar · *[Foto: …]* = Bild/Folie auf der Seite
 > Wortlaut und Sprache sind 1:1 übernommen. Nur offensichtliche Rechtschreibfehler sind still korrigiert. Pfeile (→, ⇒, ↳) und Einrückungen entsprechen deiner Notiz.

@@ -2,7 +2,7 @@
 
 **Session:** Dienstag, 22.09.2026, 11:30–12:10, Panel Stage
 **Handschrift:** `1_handschrift.pdf` (Original: „Panel 3.pdf“), Seiten 1–7 (ganze Datei)
-**Status:** ⏳ wartet auf dein Gegenlesen
+**Status:** ✅ von dir gegengelesen und freigegeben (24.09.2026)
 
 > **Legende:** **fett** = von dir markiert (Textmarker) · `[?]` = unsicher gelesen, bitte prüfen · `[unleserlich]` = nicht lesbar · *[Foto: …]* = Bild/Folie auf der Seite
 > Wortlaut und Sprache sind 1:1 übernommen. Nur offensichtliche Rechtschreibfehler sind still korrigiert. Pfeile (→, ⇒, ↳) und Einrückungen entsprechen deiner Notiz.

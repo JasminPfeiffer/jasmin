@@ -2,7 +2,7 @@
 
 **Session:** Mittwoch, 23.09.2026, 13:30–14:50, Workshop Room B
 **Handschrift:** `1_handschrift.pdf` (Original: „Workshop B.pdf“), Seiten 1–2 (Seite 3 ist leer)
-**Status:** ⏳ wartet auf dein Gegenlesen
+**Status:** ✅ von dir gegengelesen und freigegeben (24.09.2026)
 
 > **Legende:** **fett** = von dir markiert (Textmarker) · `[?]` = unsicher gelesen, bitte prüfen · `[unleserlich]` = nicht lesbar · *[Foto: …]* = Bild/Folie auf der Seite
 > Wortlaut und Sprache sind 1:1 übernommen. Nur offensichtliche Rechtschreibfehler sind still korrigiert. Pfeile (→, ⇒, ↳) und Einrückungen entsprechen deiner Notiz.

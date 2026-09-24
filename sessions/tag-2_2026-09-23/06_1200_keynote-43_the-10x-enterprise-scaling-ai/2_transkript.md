@@ -2,7 +2,7 @@
 
 **Session:** Mittwoch, 23.09.2026, 12:00–12:15, Main Stage
 **Handschrift:** `1_handschrift.pdf` (Original: „Main Stage.pdf“), Seite 6 unten bis Seite 7 (die Datei enthält alle 6 Main-Stage-Vorträge; Seite 8 ist leer)
-**Status:** ⏳ wartet auf dein Gegenlesen
+**Status:** ✅ von dir gegengelesen und freigegeben (24.09.2026)
 
 > **Legende:** **fett** = von dir markiert (Textmarker) · `[?]` = unsicher gelesen, bitte prüfen · `[unleserlich]` = nicht lesbar · *[Foto: …]* = Bild/Folie auf der Seite
 > Wortlaut und Sprache sind 1:1 übernommen. Nur offensichtliche Rechtschreibfehler sind still korrigiert. Pfeile (→, ⇒, ↳) und Einrückungen entsprechen deiner Notiz.

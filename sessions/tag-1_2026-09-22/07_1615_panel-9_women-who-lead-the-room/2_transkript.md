@@ -13,10 +13,15 @@
 ### Panel 9 – Women who lead; closing AI's Leadership gap
 
 - Danae → Product Leader
+  *(laut Programm: Danae Vara · Product Leader, Moderation)*
 - Sarah → Founder FundHER, AI Ethics
-- Faith → CEO; AI Strategy – Transformation 21st limited `[?]`
-- Leslie → Advisor; The intuitive edge `[?]`
+  *(laut Programm: Sarah Anto · Founder & Ecosystem Builder, FundHER)*
+- Faith → CEO; AI Strategy – Transformation 21st limited
+  *(laut Programm: Faith Ruto · CEO, AI Adoption Strategist, Transformation21st Limited)*
+- Leslie → Advisor; The intuitive edge
+  *(laut Programm: Leslie Ann Keeler · Leadership Advisor, Venture Capital, The Intuitive EDGE)*
 - Juliet → Mission AI; NGO (non-profit)
+  *(laut Programm: Juliet Macdowell · Founder, Mission AI)*
 
 ---
 
@@ -32,7 +37,7 @@
 ## Seite 2
 
 Grow AI?
-**Anthropic `[?]` + Open AI are key funded…** *(du hast „Entropics“ geschrieben)*
+**Anthropic + OpenAI are key funded…**
 - more difficult to raise money
 - Every pitch deck has AI in it
 - Tech. aspect needed e.g. robotics
@@ -46,16 +51,17 @@ VC usage of AI
 - AI provides access but **proposal flood** might lead to issues on receive side (**Funding, Application**)
 ⇒ Relationship factor still matters
 
-2) Leaders get on train + try to run business
-   1) capability ⇒ upskilling on AI, tools, confidence
-   2) culture ⇒ AI changes way we work !
-      Promote expertise
+#### 2) Leaders get on train + try to run business
+
+- 2.1 – capability ⇒ upskilling on AI, tools, confidence
+- 2.2 – culture ⇒ AI changes way we work !
+  Promote expertise
 
 ## Seite 3
 
-Experiment, Fail culture
-   3) commercial value add
-      ↳ what do I get out of AI?
+- 2.2 – *(Fortsetzung culture)* Experiment, Fail culture
+- 2.3 – commercial value add
+  ↳ what do I get out of AI?
 
 ⇒ AI amplifies the culture !
    Human behind technology is key !

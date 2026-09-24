@@ -13,6 +13,7 @@
 ### What AI companies actually charge for?
 
 - Agentic AI for 8 year ⇒ BLP Digital
+  *(laut Programm: Tim Beck · Co-founder & CEO, BLP Digital; Moderation: Henrik Beckmann · Co-Founder & CEO, Momentum Data)*
 ↳ Focus on infrastructure // application layer
 ↳ AI in real processes / application layer
 ↳ BLP Agents: – companies run on processes
@@ -36,10 +37,10 @@
     – **License price** incl. set-up, etc.
 
 ⇒ 3 y min. periods with yearly fee !
-  – **Predictable** ⇒ PO `[?]` volume to be monitored
+  – **Predictable** ⇒ PO (purchase order) volume to be monitored
 
 ⇒ **KPI?** *(unterstrichen)*
-  ↳ switch to processing invoices with B2P `[?]`
+  ↳ switch to processing invoices with BLP
   ↳ Not adoption but more
   ↳ **Automation**
   + **Increase productivity** ⇒ Realize value !

@@ -18,7 +18,7 @@ AirHelp → flight compensation (B2C)
   *(laut Programm: Rory O'Driscoll · VP of Data, AirHelp)*
 → Status quo of KPI's (applied, achievements)
 → Learnings shared: 4 obstacles + advice !
-→ AIDA = – Slack interface
+→ AIDA *(laut Programm: AIDA = AI-Analyst von AirHelp in Slack)* = – Slack interface
          – PO specialist
          – Data analytic software
          – Metric assessment
@@ -28,7 +28,7 @@ AirHelp → flight compensation (B2C)
 
 ### 4 challenges:
 1. Metric def. sprawl
-2. Varying stakeh.
+2. Varying stakeholders
 3. Lack of Trust
 4. Culture shift
 } People & change Mgmt
@@ -49,7 +49,7 @@ see what else is needed
 2. Focus on stakeholders that are our key target group
    → **Identify metric to monitor effectiveness of agent!**
    **What do we want AI to be used for** + what upscaling is needed to achieve effectiveness
-   → Ensure **accessibility** UI e.g. via using Slack as establ.
+   → Ensure **accessibility** e.g. via using Slack as establ. UI
 3. Lack of trust in AI
    - Enable employees / developer to explain tool so 3rd party trust it ⇒ **Trust lies with people!**
    - **Incl. quality checks!**

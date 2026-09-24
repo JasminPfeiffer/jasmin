@@ -8,14 +8,14 @@
 > Wortlaut und Sprache sind 1:1 übernommen. Nur offensichtliche Rechtschreibfehler sind still korrigiert. Pfeile (→, ⇒, ↳) und Einrückungen entsprechen deiner Notiz.
 
 ---
-## Seite 7
+## Seite 7 (inkl. Fortsetzung von Seite 8)
 
 ### Demo 12 → when what to build becomes the bottleneck
 
 - Experiments: Trafo „builders“ not consultant
   → Embedded product builder
 
-*(Die Seite ist in drei Spalten geschrieben: „What changed?“ → „Problems“ → „Solutions“)*
+*(Die Notiz läuft in drei Spalten über Seite 7 und 8: „What changed?“ → „Problems“ → „Solutions“. Die Fortsetzung von Seite 8 ist hier direkt eingebettet.)*
 
 **What changed?**
 - Code not bottleneck, it's cheap
@@ -38,6 +38,22 @@ Specialized Agents working together
    Gap! Lots of actionism but judgement not growing as fast
 3. **Approval fatigue** *(unterstrichen)* concept
    ⇓
+   software engineer only babysitting Agents !
+   People stop challenging agents but just accept *(Seite 8)*
+4. **AI grenades** *(unterstrichen, Seite 8)*
+   → Lazy work = delegating tasks to agents, not challenging it + passing it on !
+   → Now receiver gets massive documents to review !
+   Review task gets bundled on individuals !
+5. **Speed** *(unterstrichen, Seite 8)*
+   → Delivery quicker than what market is able to adopt / absorb
+   → Humans can't keep up with new features ! Product is constantly evolving !
+   → Avoid loops that are too short !
+   ⇒ – Build & release cycle !
+     – cut freeze of 5–10 days + spend time with user to ensure adoption, Q&A + documentation !
+6. **Context is not a warehouse** *(Seite 8)*
+   → Data access – add it to a single brain for agents to use !
+   → Not helpful ! It is important to exclude
+   *(Notiz endet hier)*
 
 **Solutions**
 - **Empower ≠ Everyone should code**
@@ -47,31 +63,10 @@ Specialized Agents working together
    ⇓
    provide context, purpose etc. to Agents
    **(Documentation + context** for agents + humans)
-
-## Seite 8
-
-*(Fortsetzung „Problems“)*
-software engineer only babysitting Agents !
-People stop challenging agents but just accept
-
-*(Fortsetzung „Solutions“)*
-3) Make agent work visible
+3) Make agent work visible *(Seite 8)*
    ⇓
    Claude Code
 
-4. **AI grenades** *(unterstrichen)*
-   → Lazy work = delegating tasks to agents, not challenging it + passing it on !
-   → Now receiver gets massive documents to review !
-   Review task gets bundled on individuals !
+## Seite 8
 
-5. **Speed** *(unterstrichen)*
-   → Delivery quicker than what market is able to adopt / absorb
-   → Humans can't keep up with new features ! Product is constantly evolving !
-   → Avoid loops that are too short !
-   ⇒ – Build & release cycle !
-     – cut freeze of 5–10 days + spend time with user to ensure adoption, Q&A + documentation !
-
-6. **Context is not a warehouse**
-   → Data access – add it to a single brain for agents to use !
-   → Not helpful ! It is important to exclude
-   *(Notiz endet hier)*
+*(Der Inhalt dieser Seite ist oben bei Seite 7 eingebettet: Fortsetzung von Problem 3, Probleme 4–6 und Solution 3.)*

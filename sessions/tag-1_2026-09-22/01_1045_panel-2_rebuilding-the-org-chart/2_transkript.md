@@ -57,9 +57,9 @@ Operators = no juniors; consultancies = hire based on customer needs
 ⇓
 **What are those?** *(unterstrichen)*
 
-Accenture – Title might remain but role will transform & adapt
-Capgemini – Role will transform & where upskilling is needed
-  use & understand AI benefits !
+Accenture (Anita) – Title might remain but role will transform & adapt
+Capgemini (Malgorzata) – Role will transform & where upskilling is needed
+  → use & understand AI benefits !
   curiosity as key
   Each & everyone to find their spot
 

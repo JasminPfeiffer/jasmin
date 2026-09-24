@@ -10,7 +10,7 @@
 ---
 ## Seite 6 (oben)
 
-### **11:40** – Private AI Exchange // Digital Reality
+### **11:40** – Private AI Exchange // Digital Realty
 
 *(laut Programm: Lars Vonhof · Senior Solution Architect, Sub-Regional EMEA, Digital Realty)*
 
@@ -29,4 +29,3 @@
 | Sustainability (energy, water etc.) | – |
 | Cost optimization | Tokenomics – cost calculation of running AI |
 
-*Hinweis: Du hast „Digital Reality“ geschrieben. Gemeint ist vermutlich das Unternehmen **Digital Realty**.*

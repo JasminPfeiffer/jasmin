@@ -15,6 +15,7 @@
 AirHelp → flight compensation (B2C)
 
 → Head of data
+  *(laut Programm: Rory O'Driscoll · VP of Data, AirHelp)*
 → Status quo of KPI's (applied, achievements)
 → Learnings shared: 4 obstacles + advice !
 → AIDA = – Slack interface

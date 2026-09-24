@@ -18,5 +18,5 @@
 To be announced...
 
 ## Abgleich mit deiner Notiz
-- Speaker ist von **Zencoder**. „Hops.ai“ ist in deiner Notiz als Tool genannt; bitte prüfen, ob das stimmt.
-- Deine Datei heißt „Demo Stage 14–15 Uhr“. Laut Programm liefen die vier Demos von **14:00 bis 15:55** im **Demo Room**.
+- Speaker ist von **Zencoder**. „Hops.ai“ ist laut deiner Erinnerung ein Tool von Zencoder. Öffentlich ließ sich das nicht bestätigen: Auf der Zencoder-Website finden sich nur Zencoder, Zenflow und Zen Agents.
+- Zeit laut Programm übernommen (14:00–14:25). Deine Datei heißt „Demo Stage 14–15 Uhr“; laut Programm liefen die vier Demos von **14:00 bis 15:55** im **Demo Room**.

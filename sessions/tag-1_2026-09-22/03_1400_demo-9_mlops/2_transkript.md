@@ -15,6 +15,7 @@
 - User prefers a single Agent ⇒ Ensure smooth Agent UI / UX
 
 - Hops.ai = Tool
+  *(laut deiner Erinnerung ein Tool von Zencoder; öffentlich nicht bestätigt)*
   ↳ Hosting of documents: – on premise deployment possible
                           – hosted on own server as first instance
   ↳ Data availability to AI?: – connection side can be limited
